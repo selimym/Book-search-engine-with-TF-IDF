@@ -1,7 +1,7 @@
 # Book-search-engine-with-TF-IDF
 This project is the 3rd homework of the Algorithms for Data Mining course I took at La Sapienza University of Rome. Th goal is to build a search engine over a book list scrapped from the internet.
 
-##### **Authors:** Daniel Jiménez & Beatrice Nobille & Selim Yahiamessaoud
+##### **Authors:** Daniel Jiménez & Beatrice Nobille & Selim Yahia-Messaoud
 ##### **Date:** 2020/12/06
 ##### **Subject:** Algorithmic Methods of Data Mining
 ##### **Data Science Master's programme**
